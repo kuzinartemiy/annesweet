@@ -392,7 +392,7 @@ a {
     background: rgba(255, 255, 255, 0.4);
     border: 1px solid #202117;
     border-radius: 10px;
-    padding:20px;
+    padding: 20px;
 }
 
 .feedback-contacts-input::placeholder,
